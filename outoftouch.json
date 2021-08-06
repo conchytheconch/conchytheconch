@@ -1,19 +1,15 @@
 {
-  "title": "Out of Touch",
-  "duration": 10,
+  "title": "The Fuck Word",
+  "duration": 11,
   "live": false,
   "thumbnail": "",
   "sources": [
     {
       "url": "https://cdn.discordapp.com/attachments/245270176205897730/873075663928696852/thefuckword.mp4",
       "contentType": "video/mp4",
-      "quality": 1080,
+      "quality": 1280,
       "bitrate": 5000
     }
   ],
-  "textTracks": [
-    {
-
-    }
-  ]
+  "textTracks": [{}]
 }
