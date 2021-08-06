@@ -11,5 +11,10 @@
       "bitrate": 5000
     }
   ],
-  "textTracks": [{""}]
+  "textTracks": [ {
+      "url": "https://example.com/subtitles.vtt",
+      "contentType": "text/vtt",
+      "name": "English Subtitles",
+      "default": true
+    }]
 }
