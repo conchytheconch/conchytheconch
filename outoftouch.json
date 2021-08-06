@@ -11,7 +11,7 @@
     }
   ],
   "textTracks": [ {
-      "url": "blank.vtt",
+      "url": "https://blank.vtt",
       "contentType": "text/vtt",
       "name": "English Subtitles",
       "default": true
