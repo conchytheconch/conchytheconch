@@ -6,9 +6,7 @@
   "sources": [
     {
       "url": "https://cdn.discordapp.com/attachments/245270176205897730/873079450391183360/woooposter.mp4",
-      "contentType": "video/mp4",
-      "quality": 1080,
-      "bitrate": 5000
+      "contentType": "video/mp4"
     }
   ],
   "textTracks": [ {
