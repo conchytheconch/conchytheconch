@@ -1,12 +1,12 @@
 {
   "title": "The Fuck Word",
-  "duration": 4,
+  "duration": 251,
   "live": false,
   "thumbnail": "https://i.imgur.com/rnZrOl7.png",
   "sources": [
     {
       "url": "https://cdn.discordapp.com/attachments/245270176205897730/873079450391183360/woooposter.mp4",
-      "contentType": "video/mp4"
+      "contentType": "video/webm"
     }
   ],
   "textTracks": [ {
