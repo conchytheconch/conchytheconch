@@ -1,0 +1,19 @@
+{
+  "title": "Out of Touch",
+  "duration": 5000,
+  "live": false,
+  "thumbnail": "https://i.imgur.com/rnZrOl7.png",
+  "sources": [
+    {
+      "url": "https://ia801000.us.archive.org/20/items/1964MothraVs.Godzilla/1964%20-%20Mothra%20vs.%20Godzilla.mp4",
+      "contentType": "video/mp4",
+	  "quality": 720
+    }
+  ],
+  "textTracks": [ {
+      "url": "https://http://example.com/subtitles.vtt",
+      "contentType": "text/vtt",
+      "name": "English Subtitles",
+      "default": true
+    }]
+}
