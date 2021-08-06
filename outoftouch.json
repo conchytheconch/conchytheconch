@@ -1,0 +1,19 @@
+{
+  "title": "Out of Touch",
+  "duration": 10,
+  "live": false,
+  "thumbnail": "",
+  "sources": [
+    {
+      "url": "https://cdn.discordapp.com/attachments/303228230473744387/816550463825903616/Out.of.Touch.webm",
+      "contentType": "video/mp4",
+      "quality": 1080,
+      "bitrate": 5000
+    }
+  ],
+  "textTracks": [
+    {
+
+    }
+  ]
+}
