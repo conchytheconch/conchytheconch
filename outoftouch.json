@@ -10,10 +10,5 @@
 	  "quality": 720
     }
   ],
-  "textTracks": [ {
-      "url": "https://http://example.com/subtitles.vtt",
-      "contentType": "text/vtt",
-      "name": "English Subtitles",
-      "default": true
-    }]
+  "textTracks": []
 }
